@@ -1,5 +1,12 @@
 # merbl-run
-Repository for Hackclub's event, Hald-Life. Merbl Run is a marble run made in Onshape during week 2 of Half-life.
+Repository for Hack Club's Half-Life event.
+Merbl Run is a marble run made in Onshape during week 2 of Half-Life.
+It is a marble run, made completely in Onshape.
+The path the marble goes through is:
+1. Down a tube
+2. Around a spiral
+3. Through a funnel
+4. Into an end piece where the marbles receive positions: 1st or 2nd.
 
 <img width="769" height="656" alt="Screenshot 2026-10-14 at 10 11 33 PM" src="https://github.com/user-attachments/assets/cd759d58-c68b-4cd5-8d40-8b1b3577d2cb" />
 <img width="428" height="586" alt="Screenshot 2026-10-15 at 11 03 25 PM" src="https://github.com/user-attachments/assets/e20e8de2-a61e-49ee-ada8-bc400ee7cc7d" />
