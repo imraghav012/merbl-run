@@ -9,10 +9,15 @@ The path the marble goes through is:
 4. Into an end piece where the marbles receive positions: 1st or 2nd.
 
 This is my original plan/drawing.
+
 <img width="769" height="656" alt="Screenshot 2026-10-14 at 10 11 33 PM" src="https://github.com/user-attachments/assets/cd759d58-c68b-4cd5-8d40-8b1b3577d2cb" />
+
 It was updated many times during the design and building process.
+
 <img width="415" height="402" alt="Screenshot 2026-10-18 at 11 05 10 PM" src="https://github.com/user-attachments/assets/65bd3c10-9284-424a-b24e-6e889c0a6862" />
+
 This part was used for the path shape in the tutorial, but wasn't used in the final product.
+
 <img width="428" height="586" alt="Screenshot 2026-10-15 at 11 03 25 PM" src="https://github.com/user-attachments/assets/e20e8de2-a61e-49ee-ada8-bc400ee7cc7d" />
 
 The rest of these images are just screenshots of parts in the parts studio and in assembly.
