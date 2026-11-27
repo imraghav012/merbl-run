@@ -3,6 +3,7 @@ Repository for Hack Club's Half-Life event.
 Merbl Run is a marble run made in Onshape during week 2 of Half-Life.
 It is a marble run made completely in Onshape.
 Onshape link: https://cad.onshape.com/documents/3cb33bf506057dcc8b539ee6/w/8e18a9d6b1439c15ee51e2d6/e/96f03d29faa2d6033b782092?renderMode=0&uiState=6b08f9228c47a01ad8af09da
+
 The path the marble goes through is:
 1. Down a tube
 2. Around a spiral
@@ -10,6 +11,9 @@ The path the marble goes through is:
 4. Into an end piece where the marbles receive positions: 1st or 2nd.
 
 After assembly, the dimensions should be: 91.25mm x 109.08mm x 166.18mm
+
+<img width="868" height="677" alt="Screenshot 2026-11-26 at 10 33 54 PM" src="https://github.com/user-attachments/assets/6eba921b-ac67-462b-b869-18d8f48cf3f0" />
+
 
 This is my original plan/drawing.
 
