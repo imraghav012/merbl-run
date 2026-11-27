@@ -8,6 +8,8 @@ The path the marble goes through is:
 3. Through a funnel
 4. Into an end piece where the marbles receive positions: 1st or 2nd.
 
+After assembly, the dimensions should be: 91.25mm x 109.08mm x 166.18mm
+
 This is my original plan/drawing.
 
 <img width="769" height="656" alt="Screenshot 2026-10-14 at 10 11 33 PM" src="https://github.com/user-attachments/assets/cd759d58-c68b-4cd5-8d40-8b1b3577d2cb" />
